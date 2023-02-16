@@ -1,2 +1,2 @@
 # Nixon
-This is a NLP practice that I gathered here all of my codes.
+This is an NLP practice in that I gathered here all of my codes.
